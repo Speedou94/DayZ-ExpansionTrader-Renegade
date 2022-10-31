@@ -1,0 +1,88 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Tentes Renegade",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+      {
+        "ClassName": "Renegade_BlackMediumTent",
+        "MaxPriceThreshold": 500000,
+        "MinPriceThreshold": 500000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "Renegade_BlackBlueCamoMediumTent",
+            "Renegade_BlackYellowPixelMediumTent",                           
+            "Renegade_BlueGrunge_2MediumTent",
+            "Renegade_ForestMediumTent",
+            "Renegade_GreenCamoMediumTent",
+            "Renegade_MilitaryCamoMediumTent",
+            "Renegade_OrangeCamoMediumTent",
+            "Renegade_RedCamoMediumTent",
+            "Renegade_HufflepuffMediumTent",
+            "Renegade_BlueWhiteCamoMediumTent",
+            "Renegade_MalachiteGreenMediumTent",
+            "Renegade_PinkPurpleMediumTent",
+            "Renegade_PurpleSuedeMediumTent",
+            "Renegade_VintageRedMediumTent"
+        ]
+      },
+      {
+        "ClassName": "Renegade_BlackLargeTent",
+        "MaxPriceThreshold": 500000,
+        "MinPriceThreshold": 500000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+         "Renegade_BlackBlueCamoLargeTent",
+          "Renegade_BlackYellowPixelLargeTent",
+          "Renegade_BlueGrunge_2LargeTent",
+          "Renegade_ForestLargeTent",
+          "Renegade_GreenCamoLargeTent",
+          "Renegade_MilitaryCamoLargeTent",
+          "Renegade_OrangeCamoLargeTent",
+          "Renegade_RedCamoLargeTent",
+          "Renegade_HufflepuffLargeTent",
+          "Renegade_BlueWhiteCamoLargeTent",
+          "Renegade_MalachiteGreenLargeTent",
+          "Renegade_PinkPurpleLargeTent",
+          "Renegade_PurpleSuedeLargeTent",
+          "Renegade_VintageRedLargeTent"
+        ]
+      },
+      {
+        "ClassName": "Renegade_BlackCarTent",
+        "MaxPriceThreshold": 500000,
+        "MinPriceThreshold": 500000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+          "Renegade_BlackBlueCamoCarTent",
+          "Renegade_BlackYellowPixelCarTent",
+          "Renegade_BlueGrunge_2CarTent",
+          "Renegade_ForestCarTent",
+          "Renegade_GreenCamoCarTent",
+          "Renegade_MilitaryCamoCarTent",
+          "Renegade_OrangeCamoCarTent",
+          "Renegade_RedCamoCarTent",
+          "Renegade_HufflepuffCarTent",
+          "Renegade_BlueWhiteCamoCarTent",
+          "Renegade_MalachiteGreenCarTent",
+          "Renegade_PinkPurpleCarTent",
+          "Renegade_PurpleSuedeCarTent",
+          "Renegade_VintageRedCarTent"
+        ]
+      }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Armes Renegade",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+      {
+        "ClassName": "Renegade_FAL_Gold",
+        "MaxPriceThreshold": 50000,
+        "MinPriceThreshold": 50000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "Renegade_FAL_BlackWeb",
+            "Renegade_FAL_BlueDecay",
+            "Renegade_FAL_ColourSplash",
+            "Renegade_FAL_Doodle",
+            "Renegade_FAL_GreenGrunge",
+            "Renegade_FAL_LightRay",
+            "Renegade_FAL_Razor",
+            "Renegade_FAL_RazorFlare",
+            "Renegade_FAL_Black"
+        ]
+      },
+      {
+        "ClassName": "Renegade_FAL_Mag",
+        "MaxPriceThreshold": 50000,
+        "MinPriceThreshold": 50000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "Renegade_FAL_40Rnd_Mag",
+            "Renegade_FAL_60Rnd_Mag",
+            "Renegade_FAL_80Rnd_Mag",
+            "Renegade_FAL_100Rnd_Mag",
+            "Renegade_FAL_200Rnd_Mag",
+            "Renegade_FAL_300Rnd_Mag"
+        ]
+      },
+      {
+        "ClassName": "Renegade_FAL_Buttstock",
+        "MaxPriceThreshold": 50000,
+        "MinPriceThreshold": 50000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "Renegade_FAL_Gold_Buttstock",
+            "Renegade_FAL_BlackWeb_Buttstock",
+            "Renegade_FAL_BlueDecay_Buttstock",
+            "Renegade_FAL_ColourSplash_Buttstock",
+            "Renegade_FAL_Doodle_Buttstock",
+            "Renegade_FAL_GreenGrunge_Buttstock",
+            "Renegade_FAL_LightRay_Buttstock",
+            "Renegade_FAL_Razor_Buttstock",
+            "Renegade_FAL_RazorFlare_Buttstock",
+            "Renegade_FAL_Black_Buttstock"
+        ]
+      },
+      {
+        "ClassName": "Renegade_ACOG_Optic",
+        "MaxPriceThreshold": 500000,
+        "MinPriceThreshold": 500000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+          "Renegade_HuntingOptic",
+          "Renegade_Gold_HuntingOptic",
+          "Renegade_BlackWeb_HuntingOptic",
+          "Renegade_BlueDecay_HuntingOptic",
+          "Renegade_ColourSplash_HuntingOptic",
+          "Renegade_Doodle_HuntingOptic",
+          "Renegade_GreenGrunge_HuntingOptic",
+          "Renegade_LightRay_HuntingOptic",
+          "Renegade_RazorFlare_HuntingOptic",
+          "Renegade_Razor_HuntingOptic",
+          "Renegade_Black_HuntingOptic"
+        ]
+      },
+      {
+        "ClassName": "Renegade_Rifle_Suppressor",
+        "MaxPriceThreshold": 500000,
+        "MinPriceThreshold": 500000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+          "Renegade_Gold_RifleSuppressor",
+          "Renegade_BlackWeb_RifleSuppressor",
+          "Renegade_BlueDecay_RifleSuppressor",
+          "Renegade_ColourSplash_RifleSuppressor",
+          "Renegade_Doodle_RifleSuppressor",
+          "Renegade_GreenGrunge_RifleSuppressor",
+          "Renegade_LightRay_RifleSuppressor",
+          "Renegade_RazorFlare_RifleSuppressor",
+          "Renegade_Razor_RifleSuppressor",
+          "Renegade_Black_RifleSuppressor"
+        ]
+      },
+      {
+        "ClassName": "Renegade_Gold_Deagle",
+        "MaxPriceThreshold": 300000,
+        "MinPriceThreshold": 300000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "Renegade_Black_Deagle",
+            "Renegade_Doodle_Deagle",
+            "Renegade_GreenGrunge_Deagle",
+            "Renegade_Razor_Deagle"
+        ]
+      },
+      {
+        "ClassName": "Renegade_Deagle_15Rnd_Mag",
+        "MaxPriceThreshold": 300000,
+        "MinPriceThreshold": 300000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "Renegade_Deagle_30Rnd_Mag"
+        ]
+      }
+    ]
+    }

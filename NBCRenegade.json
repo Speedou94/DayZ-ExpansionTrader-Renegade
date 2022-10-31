@@ -1,0 +1,105 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Ceinture Renegade",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+      {
+        "ClassName": "Renegade_BlackCamo_NBC_Jacket",
+        "MaxPriceThreshold": 100000,
+        "MinPriceThreshold": 100000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "Renegade_BlueCamo_NBC_Jacket",
+            "Renegade_LightBlueCamo_NBC_Jacket",
+            "Renegade_MilitaryCamo_NBC_Jacket",
+            "Renegade_PurpleCamo_NBC_Jacket",
+            "Renegade_RedCamo_NBC_Jacket",
+            "Renegade_ToxicGreen_NBC_Jacket",
+            "Renegade_ToxicYellow_NBC_Jacket"
+        ]
+      },
+      {
+        "ClassName": "Renegade_BlackCamo_NBC_Hood",
+        "MaxPriceThreshold": 100000,
+        "MinPriceThreshold": 100000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "Renegade_BlueCamo_NBC_Hood",
+            "Renegade_LightBlueCamo_NBC_Hood",
+            "Renegade_MilitaryCamo_NBC_Hood",
+            "Renegade_PurpleCamo_NBC_Hood",
+            "Renegade_RedCamo_NBC_Hood",
+            "Renegade_ToxicGreen_NBC_Hood",
+            "Renegade_ToxicYellow_NBC_Hood"
+        ]
+      },
+      {
+        "ClassName": "Renegade_BlackCamo_NBC_Boots",
+        "MaxPriceThreshold": 100000,
+        "MinPriceThreshold": 100000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "Renegade_BlueCamo_NBC_Boots",
+            "Renegade_LightBlueCamo_NBC_Boots",
+            "Renegade_MilitaryCamo_NBC_Boots",
+            "Renegade_PurpleCamo_NBC_Boots",
+            "Renegade_RedCamo_NBC_Boots",
+            "Renegade_ToxicGreen_NBC_Boots",
+            "Renegade_ToxicYellow_NBC_Boots"
+        ]
+      },
+      {
+        "ClassName": "Renegade_BlackCamo_NBC_Pants",
+        "MaxPriceThreshold": 100000,
+        "MinPriceThreshold": 100000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "Renegade_BlueCamo_NBC_Pants",
+            "Renegade_LightBlueCamo_NBC_Pants",
+            "Renegade_MilitaryCamo_NBC_Pants",
+            "Renegade_PurpleCamo_NBC_Pants",
+            "Renegade_RedCamo_NBC_Pants",
+            "Renegade_ToxicGreen_NBC_Pants",
+            "Renegade_ToxicYellow_NBC_Pants"
+        ]
+      },
+      {
+        "ClassName": "Renegade_BlackCamo_NBC_Gloves",
+        "MaxPriceThreshold": 100000,
+        "MinPriceThreshold": 100000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "Renegade_BlueCamo_NBC_Gloves",
+            "Renegade_LightBlueCamo_NBC_Gloves",
+            "Renegade_MilitaryCamo_NBC_Gloves",
+            "Renegade_PurpleCamo_NBC_Gloves",
+            "Renegade_RedCamo_NBC_Gloves",
+            "Renegade_ToxicGreen_NBC_Gloves",
+            "Renegade_ToxicYellow_NBC_Gloves"
+        ]
+      }
+    ]
+    }

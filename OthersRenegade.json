@@ -1,0 +1,43 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Divers Renegade",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+      {
+        "ClassName": "Renegade_Bandage",
+        "MaxPriceThreshold": 50000,
+        "MinPriceThreshold": 50000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "Renegade_Splint",
+        "MaxPriceThreshold": 50000,
+        "MinPriceThreshold": 50000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      },
+      {
+        "ClassName": "Renegade_ExtendedBattery",
+        "MaxPriceThreshold": 50000,
+        "MinPriceThreshold": 50000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": []
+      }
+    ]
+    }

@@ -1,0 +1,37 @@
+{
+  "m_Version": 9,
+  "DisplayName": "Renegade",
+  "MinRequiredHumanity": -2147483648,
+  "MaxRequiredHumanity": 2147483647,
+  "TraderIcon": "Shotgun",
+  "Currencies": [
+    "expansionBanknoteEuro",
+        "euro100",
+        "euro50",
+        "euro20",
+        "euro10",
+        "euro5",
+        "euro"
+  ],
+  "Categories": [
+    "HelmetsRenegade",
+    "PlateRenegade",
+    "JacketsRenegade",
+    "BackPackRenegade",
+    "BeltRenegade",
+    "GlovesRenegade",
+    "PantsRenegade",
+    "ShoesRenegade",
+    "HolsterRenegade",
+    "GhillieWrapRenegade",
+    "WeaponsRenegade",
+    "AttachementRenegade",
+    "BarrelRenegade",
+    "CanteenRenegade",
+    "OthersRenegade",
+    "ProtectorCaseRenegade",
+    "TentRenegade"
+  ],
+  "Items": {
+  }
+}

@@ -1,0 +1,40 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Barriles Renegade",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+      {
+        "ClassName": "Renegade_BlackCarbonBarrel",
+        "MaxPriceThreshold": 50000,
+        "MinPriceThreshold": 50000,
+        "SellPricePercent": -1,
+        "MaxStockThreshold": 100,
+        "MinStockThreshold": 1,
+        "QuantityPercent": -1,
+        "SpawnAttachments": [],
+        "Variants": [
+            "Renegade_BlueWhiteCamoBarrel",
+            "Renegade_BrownGrungeBarrel",
+            "Renegade_ColourSplashBarrel",
+            "Renegade_DarkWoodBarrel",
+            "Renegade_GoldBarrel",
+            "Renegade_GraffitiBarrel",
+            "Renegade_GraffitiGrungeBarrel",
+            "Renegade_GreyBlueBarrel",
+            "Renegade_GrungeLettersBarrel",
+            "Renegade_VintageBlueBarrel",
+            "Renegade_VintageRedBarrel",
+            "Renegade_BearBarrel",
+            "Renegade_WolfBarrel",
+            "Renegade_TRexBarrel",
+            "Renegade_TigerBarrel",
+            "Renegade_TeddyBearBarrel",
+            "Renegade_NeonWomanBarrel",
+            "Renegade_AngryWolfBarrel"
+        ]
+      }
+    ]
+    }
